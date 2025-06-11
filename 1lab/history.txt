@@ -1,0 +1,56 @@
+Z:\1--шид--2(ОССТ_ЗВЕРЕВ)\Бондарева Юлия\1лаб>type history.txt
+ copy con test.txt
+12djgd
+dfijgdj
+gjdf
+Z:\1--шид--2(ОССТ_ЗВЕРЕВ)\Бондарева Юлия\1лаб>doskey /history
+ copy con test.txt
+12djgd
+dfijgdj
+gjdf →→→→
+copy con teest.txt
+1
+8
+9
+5
+7
+2→
+sort teest.txt
+type teest.txt
+sort teest.txt > sortedd.txt
+dir
+type sortedd.txt
+doskey
+history
+dir.txt
+dir /? > dir.txt
+type dir.txt
+copy /? > copy.txt
+type copy.txt
+xcopy /? > xcopy.txt
+type xcopy.txt
+DIR C:\Windows\*.jpg
+DIR C:\Windows\*.jpg /s
+DIR C:\Windows\*.jpg
+dir /?
+DIR C:\Windows\*.jpg /s
+copy /? > inff.txt
+dir /? >> inff.txt
+xcopy /? >> inff.txt
+type inff.txt
+DIR C:\Windows\*.jpg
+DIR C:\Windows\*.jpg /s
+DIR C:\Windows\*.bmp /s
+xcopy c:\Games\*.png c:
+xcopy c:\Games\*.png c:\WinGrafika
+xcopy z:\Games\*.png c:\WinGrafika
+xcopy z:\*.png c:\WinGrafika
+xcopy z:\*.png z:\"Бондарева Юлия"
+xcopy z:\*.png "z:\1--шид--2(ОССТ_ЗВЕРЕВ)\Бондарева Юлия\1лаб"
+xcopy z:\*.png "z:\1--шид--2(ОССТ_ЗВЕРЕВ)\Бондарева Юлия
+xcopy z:\*.png "z:\1--шид--2(ОССТ_ЗВЕРЕВ)\Бондарева Юлия"
+doskey
+doskey /history
+doskey /history > history.txt
+type history.txt
+doskey /history
